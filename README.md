@@ -38,7 +38,7 @@
 
 ## 📍 Overview
 
-<code>► An exercise to run simple login automation using java with maven (selenium & TestNG dependency</code>
+<code>► An exercise to run simple login automation using java with maven (selenium & TestNG dependency) from Manual QA certification</code>
 
 ---
 
